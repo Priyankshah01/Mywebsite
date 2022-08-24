@@ -874,6 +874,9 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact .container{
+  background-image: url("img/contact.png");
+}
 .contact .info {
   width: 100%;
   background: #fff;
